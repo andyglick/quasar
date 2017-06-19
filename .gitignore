@@ -14,3 +14,12 @@ private/
 .nb-gradle-properties
 .bdb/
 log4j.xml
+
+*.log
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+target/
